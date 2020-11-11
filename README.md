@@ -1,9 +1,9 @@
 # 🔱 Conditions – A parser of a simple conditions specification language
 
-[![CircleCI](https://badgen.net/circleci/github/JulienBreux/conditions/master)](https://circleci.com/gh/JulienBreux/conditions)
-[![Go Report Card](https://goreportcard.com/badge/github.com/JulienBreux/conditions)](https://goreportcard.com/report/github.com/JulienBreux/conditions)
-[![GoDoc](https://godoc.org/github.com/JulienBreux/conditions?status.svg)](http://godoc.org/github.com/JulienBreux/conditions)
-[![GitHub tag](https://img.shields.io/github/tag/JulienBreux/conditions.svg)](Tag)
+[![CircleCI](https://badgen.net/circleci/github/julienbreux/conditions/master)](https://circleci.com/gh/julienbreux/conditions)
+[![Go Report Card](https://goreportcard.com/badge/github.com/julienbreux/conditions)](https://goreportcard.com/report/github.com/julienbreux/conditions)
+[![GoDoc](https://godoc.org/github.com/julienbreux/conditions?status.svg)](http://godoc.org/github.com/julienbreux/conditions)
+[![GitHub tag](https://img.shields.io/github/tag/julienbreux/conditions.svg)](Tag)
 [![Go version](https://img.shields.io/badge/go-v1.15-blue)](https://golang.org/dl/#stable)
 
 This package offers a parser of a simple conditions specification language (reduced set of arithmetic/logical operations).
