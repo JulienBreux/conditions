@@ -1,6 +1,6 @@
 # 🔱 Conditions – A parser of a simple conditions specification language
 
-[![CircleCI](https://badgen.net/circleci/github/julienbreux/conditions/master)](https://circleci.com/gh/julienbreux/conditions)
+[![CircleCI](https://badgen.net/circleci/github/JulienBreux/conditions/master)](https://circleci.com/gh/JulienBreux/conditions)
 [![Go Report Card](https://goreportcard.com/badge/github.com/julienbreux/conditions)](https://goreportcard.com/report/github.com/julienbreux/conditions)
 [![GoDoc](https://godoc.org/github.com/julienbreux/conditions?status.svg)](http://godoc.org/github.com/julienbreux/conditions)
 [![GitHub tag](https://img.shields.io/github/tag/julienbreux/conditions.svg)](Tag)
